@@ -6,5 +6,5 @@ repos:
       url: https://github.com/iron-s/demo-auth-lib
       path: /Users/iron/macr-demo/demo-auth-lib
       pointer_type: sha
-      current_pointer: 44810769cbbd04bda0fa093790dff090b12b51e0
+      current_pointer: 0cf9f932207df0d4daa17cfb28dc5e07144781e5
       branch: feat/unified-checkout-2930f501
